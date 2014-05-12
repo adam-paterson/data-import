@@ -29,8 +29,9 @@
         "phpoffice/phpexcel": "*",
         "doctrine/dbal": "*",
         "doctrine/orm": "*",
-        "symfony/console": ">=2.2",
-        "symfony/validator": "~2.3.0"
+        "symfony/console": "v2.5.0-BETA2",
+        "symfony/validator": "~2.3.0",
+        "phpunit/phpunit": "4.*"
     },
     "suggest": {
         "ext-iconv": "For the CharsetValueConverter",
